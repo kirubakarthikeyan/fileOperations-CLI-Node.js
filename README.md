@@ -2,7 +2,7 @@
 <br>
 <br>
   ```
-	> git clone https://github.com/kirubakarthikeyan/TodoApp-MERNStack.git
+	> git clone https://github.com/kirubakarthikeyan/fileOperations-CLI-Node.js.git
 	> cd commandline
 	> node commandline.js
 
